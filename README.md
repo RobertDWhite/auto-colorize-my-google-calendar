@@ -1,5 +1,5 @@
 # Overview
-This Google Apps Script automates the colorization of Google Calendar events based on specific keywords in the event title and the email domains of attendees. The script can categorize events visually, helping users manage and organize their calendar more effectively.
+This Google Apps Script automates the colorization of Google Calendar events based on specific keywords in the event title and the email domains of attendees. The script can categorize events visually, helping users manage and organize their calendar more effectively. This was originally developed for a "customer success" scenario, where I was juggling multiple different customer meetings daily, and was tailored to my role there.
 
 ## Features
 - Automatically colors events based on keywords in titles and attendee email addresses.
